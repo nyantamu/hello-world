@@ -3,3 +3,6 @@
 git/github 演習
 
 sea slugs
+
+＜git-tutorial.mdのリンク＞
+https://github.com/nyantamu/hello-world/blob/Hiroto/git-tutorial.md
